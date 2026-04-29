@@ -79,10 +79,10 @@
 
 ---
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-contribution-grid-snake.svg">
+</picture>
 ## ⬛ Currently Learning
-![Learning MVC](https://img.shields.io/badge/Learning_MVC-1a1a1a?style=for-the-badge&logo=dotnet&logoColor=C9C9C9)
-![Learning APIs](https://img.shields.io/badge/Learning_REST_APIs-1a1a1a?style=for-the-badge&logo=postman&logoColor=E5E5E5)
-![Learning Docker](https://img.shields.io/badge/Learning_Docker-1a1a1a?style=for-the-badge&logo=docker&logoColor=C9C9C9)
-![Learning AI](https://img.shields.io/badge/Learning_AI_Automation-1a1a1a?style=for-the-badge&logo=openai&logoColor=E5E5E5)
 
-</div>
