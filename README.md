@@ -5,18 +5,18 @@
 <br>
 
 <div align="center">
-  <table width="100%" style="border-collapse:collapse;">
+  <table width="100%">
       <tr>
-              <td align="center" valign="middle" width="15%" style="padding:0;margin:0;">
-                        <img src="https://i.pinimg.com/736x/b0/c4/59/b0c45945a9c48129b2a653bc08132606.jpg" style="width:100%;height:auto;display:block;" />
+              <td align="center" valign="middle" width="15%">
+                        <img width="100%" src="https://i.pinimg.com/736x/b0/c4/59/b0c45945a9c48129b2a653bc08132606.jpg" />
               </td>
-              <td align="center" valign="middle" width="70%" style="padding:8px;">
+              <td align="center" valign="middle" width="70%">
                         <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SebaCalvino&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF2E2E&text_color=E6E6E6&icon_color=FF4D4D&cache_seconds=86400" width="100%" />
                         <br><br>
                         <img src="https://streak-stats.demolab.com?user=SebaCalvino&hide_border=true&background=0D0D0D&ring=FF2E2E&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=E6E6E6&currStreakLabel=FF4D4D&sideLabels=FF2E2E&dates=B3B3B3&stroke=2A2A2A" width="100%" />
               </td>
-              <td align="center" valign="middle" width="15%" style="padding:0;margin:0;">
-                        <img src="https://i.pinimg.com/webp70/1200x/e8/6a/c4/e86ac4c19ab7fc122e1f2bccadca95e7.webp" style="width:100%;height:auto;display:block;" />
+              <td align="center" valign="middle" width="15%">
+                        <img width="100%" src="https://i.pinimg.com/webp70/1200x/e8/6a/c4/e86ac4c19ab7fc122e1f2bccadca95e7.webp" />
               </td>
       </tr>
   </table>
@@ -25,13 +25,13 @@
 <br>
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF2E2E&center=true&vCenter=true&width=600&lines=%F0%9F%9F%A5+Tech+Stack+%26+Knowledge+%F0%9F%9F%A5" alt="Tech Stack" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF2E2E&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%9F%A5+Tech+Stack+%26+Knowledge+%F0%9F%9F%A5" alt="Tech Stack" />
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%F0%9F%94%B4+Programming+Languages" alt="Programming Languages" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+Programming+Languages" alt="Programming Languages" />
 </div>
 
 ![C#](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=FF2E2E)
@@ -45,8 +45,8 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%F0%9F%94%B4+Front-End" alt="Front-End" />
-</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+Front-End" alt="Front-End" />
+</div>div>
 
 ![React](https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=FF2E2E)
 ![React Router](https://img.shields.io/badge/React_Router-0D0D0D?style=for-the-badge&logo=reactrouter&logoColor=FF4D4D)
@@ -57,8 +57,8 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%F0%9F%94%B4+Back-End+%26+Frameworks" alt="Back-End" />
-</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+Back-End+%26+Frameworks" alt="Back-End" />
+</div>div>
 
 ![Node.js](https://img.shields.io/badge/Node.js-0D0D0D?style=for-the-badge&logo=nodedotjs&logoColor=FF2E2E)
 ![Express.js](https://img.shields.io/badge/Express.js-0D0D0D?style=for-the-badge&logo=express&logoColor=FF4D4D)
@@ -70,8 +70,8 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%F0%9F%94%B4+Databases+%26+Information+Systems" alt="Databases" />
-</div>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=550&lines=%F0%9F%94%B4+Databases+%26+Information+Systems" alt="Databases" />
+</div>div>
 
 ![SQL Server](https://img.shields.io/badge/SQL_Server-0D0D0D?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF2E2E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF4D4D)
@@ -84,7 +84,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%F0%9F%94%B4+APIs+%26+Integration" alt="APIs" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+APIs+%26+Integration" alt="APIs" />
 </div>
 
 ![REST API](https://img.shields.io/badge/REST_API-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=FF2E2E)
@@ -95,7 +95,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=%F0%9F%94%B4+Artificial+Intelligence+%26+Creative+Tools" alt="AI Tools" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=620&lines=%F0%9F%94%B4+Artificial+Intelligence+%26+Creative+Tools" alt="AI Tools" />
 </div>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=FF2E2E)
@@ -112,7 +112,7 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=FF4D4D&center=true&vCenter=true&width=500&lines=%F0%9F%94%B4+Developer+Tools+%26+DevOps" alt="Dev Tools" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+Developer+Tools+%26+DevOps" alt="Dev Tools" />
 </div>
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D0D0D?style=for-the-badge&logo=visualstudio&logoColor=FF2E2E)
