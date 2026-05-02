@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1080" src="https://github.com/user-attachments/assets/37cdd222-23b0-40d6-9477-d55ab678392d" />
+  <img width="100%" src="https://i.pinimg.com/originals/27/2c/72/272c726ca2f31be99579030ac9fdb2b1.gif" />
 </div>
 
 <br>
@@ -8,15 +8,15 @@
   <table>
     <tr>
       <td align="center" valign="middle">
-        <img width="220" src="https://github.com/user-attachments/assets/be6fdea2-ecdd-483e-b686-c64fdd872c07" />
+        <img width="220" src="https://i.pinimg.com/736x/b0/c4/59/b0c45945a9c48129b2a653bc08132606.jpg" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api?username=SebaCalvino&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF2E2E&text_color=E6E6E6&icon_color=FF4D4D" width="480" />
+        <img src="https://github-readme-stats.vercel.app/api?username=SebaCalvino&show_icons=true&hide_border=true&bg_color=0D0D0D&titlhe_color=FF2E2E&text_color=E6E6E6&icon_color=FF4D4D&cache_seconds=86400" width="480" />
         <br><br>
         <img src="https://streak-stats.demolab.com?user=SebaCalvino&hide_border=true&background=0D0D0D&ring=FF2E2E&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=E6E6E6&currStreakLabel=FF4D4D&sideLabels=FF2E2E&dates=B3B3B3&stroke=2A2A2A" width="480" />
       </td>
       <td align="center" valign="middle">
-        <img width="220" src="https://github.com/user-attachments/assets/be6fdea2-ecdd-483e-b686-c64fdd872c07" />
+        <img width="220" src="https://i.pinimg.com/webp70/1200x/e8/6a/c4/e86ac4c19ab7fc122e1f2bccadca95e7.webp" />
       </td>
     </tr>
   </table>
@@ -67,6 +67,7 @@
 ![Gemini](https://img.shields.io/badge/Gemini-0D0D0D?style=for-the-badge&logo=google&logoColor=FF2E2E)
 ![Veo 3](https://img.shields.io/badge/Veo_3-0D0D0D?style=for-the-badge&logo=google&logoColor=FF4D4D)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-0D0D0D?style=for-the-badge&logo=github&logoColor=FF2E2E)
+![Claude](https://img.shields.io/badge/Claude-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=FF4D4D)
 ![Notion](https://img.shields.io/badge/Notion-0D0D0D?style=for-the-badge&logo=notion&logoColor=FF4D4D)
 ![Canva](https://img.shields.io/badge/Canva-0D0D0D?style=for-the-badge&logo=canva&logoColor=FF2E2E)
 
@@ -82,6 +83,16 @@
 ![JSON](https://img.shields.io/badge/JSON-0D0D0D?style=for-the-badge&logo=json&logoColor=FF4D4D)
 
 ---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebaCalvino&bg_color=0D0D0D&color=FF2E2E&line=FF4D4D&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2E2E&height=120&section=footer" width="100%"/>
+</div>
 
 <br>
 
