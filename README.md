@@ -11,7 +11,7 @@
         <img width="220" src="https://i.pinimg.com/736x/b0/c4/59/b0c45945a9c48129b2a653bc08132606.jpg" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SebaCalvino&show_icons=true&hide_border=true&bg_color=0D0D0D&titlhe_color=FF2E2E&text_color=E6E6E6&icon_color=FF4D4D&cache_seconds=86400" width="480" />
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SebaCalvino&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF2E2E&text_color=E6E6E6&icon_color=FF4D4D&cache_seconds=86400" width="480" />
         <br><br>
         <img src="https://streak-stats.demolab.com?user=SebaCalvino&hide_border=true&background=0D0D0D&ring=FF2E2E&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=E6E6E6&currStreakLabel=FF4D4D&sideLabels=FF2E2E&dates=B3B3B3&stroke=2A2A2A" width="480" />
       </td>
