@@ -149,7 +149,5 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg" alt="snake" />
 </p>
-
----
