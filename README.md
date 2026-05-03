@@ -1,38 +1,36 @@
 <div align="center">
   <img width="100%" src="https://i.pinimg.com/originals/27/2c/72/272c726ca2f31be99579030ac9fdb2b1.gif" />
-</div>
+</div>div>
 
 <br>
 
-<div align="center">
-  <table width="100%">
-      <tr>
-              <td align="center" valign="middle" width="15%">
-                        <img width="100%" src="https://i.pinimg.com/736x/b0/c4/59/b0c45945a9c48129b2a653bc08132606.jpg" />
-              </td>
-              <td align="center" valign="middle" width="70%">
-                        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SebaCalvino&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF2E2E&text_color=E6E6E6&icon_color=FF4D4D&cache_seconds=86400" width="100%" />
-                        <br><br>
-                        <img src="https://streak-stats.demolab.com?user=SebaCalvino&hide_border=true&background=0D0D0D&ring=FF2E2E&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=E6E6E6&currStreakLabel=FF4D4D&sideLabels=FF2E2E&dates=B3B3B3&stroke=2A2A2A" width="100%" />
-              </td>
-              <td align="center" valign="middle" width="15%">
-                        <img width="100%" src="https://i.pinimg.com/webp70/1200x/e8/6a/c4/e86ac4c19ab7fc122e1f2bccadca95e7.webp" />
-              </td>
-      </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+        <td align="center" valign="middle" width="15%">
+                <img width="100%" src="https://i.pinimg.com/736x/b0/c4/59/b0c45945a9c48129b2a653bc08132606.jpg" />
+        </td>td>
+        <td align="center" valign="middle" width="70%">
+                <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SebaCalvino&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF2E2E&text_color=E6E6E6&icon_color=FF4D4D&cache_seconds=86400" width="100%" />
+                <br><br>
+                <img src="https://streak-stats.demolab.com?user=SebaCalvino&hide_border=true&background=0D0D0D&ring=FF2E2E&fire=FF4D4D&currStreakNum=FFFFFF&sideNums=E6E6E6&currStreakLabel=FF4D4D&sideLabels=FF2E2E&dates=B3B3B3&stroke=2A2A2A" width="100%" />
+        </td>td>
+        <td align="center" valign="middle" width="15%">
+                <img width="100%" src="https://i.pinimg.com/webp70/1200x/e8/6a/c4/e86ac4c19ab7fc122e1f2bccadca95e7.webp" />
+        </td>td>
+  </tr>tr>
+</table>table>
 
 <br>
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF2E2E&center=true&vCenter=true&repeat=true&width=600&lines=%F0%9F%9F%A5+Tech+Stack+%26+Knowledge+%F0%9F%9F%A5" alt="Tech Stack" />
-</div>
+</div>div>
 
 ---
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+Programming+Languages" alt="Programming Languages" />
-</div>
+</div>div>
 
 ![C#](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=FF2E2E)
 ![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF2E2E)
@@ -85,7 +83,7 @@
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+APIs+%26+Integration" alt="APIs" />
-</div>
+</div>div>
 
 ![REST API](https://img.shields.io/badge/REST_API-0D0D0D?style=for-the-badge&logo=fastapi&logoColor=FF2E2E)
 ![JSON](https://img.shields.io/badge/JSON-0D0D0D?style=for-the-badge&logo=json&logoColor=FF4D4D)
@@ -96,7 +94,7 @@
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=620&lines=%F0%9F%94%B4+Artificial+Intelligence+%26+Creative+Tools" alt="AI Tools" />
-</div>
+</div>div>
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-0D0D0D?style=for-the-badge&logo=openai&logoColor=FF2E2E)
 ![Codex](https://img.shields.io/badge/Codex-0D0D0D?style=for-the-badge&logo=openai&logoColor=FF4D4D)
@@ -113,7 +111,7 @@
 
 <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=FF4D4D&center=true&vCenter=true&repeat=true&width=500&lines=%F0%9F%94%B4+Developer+Tools+%26+DevOps" alt="Dev Tools" />
-</div>
+</div>div>
 
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-0D0D0D?style=for-the-badge&logo=visualstudio&logoColor=FF2E2E)
 ![VS Code](https://img.shields.io/badge/VS_Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=FF4D4D)
@@ -126,19 +124,19 @@
 
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebaCalvino&bg_color=0D0D0D&color=FF2E2E&line=FF4D4D&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</div>
+</div>div>
 
 <br>
 
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=FF2E2E&height=120&section=footer" width="100%"/>
-</div>
+</div>div>
 
 <br>
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/orbitturner/orbitturner/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
+</p>p>
 
 ---
-      </tr>
+  </tr>
