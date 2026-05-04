@@ -1,3 +1,6 @@
+<!-- ============================================= -->
+<!--           HERO + STATS (intacto)               -->
+<!-- ============================================= -->
 <div align="center">
   <img width="100%" src="https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif" />
 </div>
@@ -22,132 +25,91 @@
 
 <br>
 
+<!-- ============================================= -->
+<!--           TÍTULO — AZUL DE LA PALETA           -->
+<!--   Width=900 → ya no se corta el texto          -->
+<!--   Color=2C5282 (azul medio paleta)             -->
+<!--   Size=40, weight=800 → impactante             -->
+<!-- ============================================= -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&lines=%E2%97%BC%EF%B8%8F+Tech+Stack+%26+Knowledge+%E2%97%BC%EF%B8%8F" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=3500&pause=1200&color=2C5282&center=true&vCenter=true&repeat=true&width=900&height=70&lines=TECH+STACK+%26+KNOWLEDGE" alt="Tech Stack & Knowledge" />
 </div>
 
----
+<br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Programming+Languages" alt="Programming Languages" />
-</div>
+<!-- ============================================= -->
+<!--           STACK GRID — FULL WIDTH              -->
+<!--   width="100%" → llega a los bordes            -->
+<!--   Logos en azul 2C5282 (paleta)                -->
+<!--   Logos rotos REEMPLAZADOS por slugs válidos   -->
+<!-- ============================================= -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=2C5282" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="12.5%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" alt="C#" /></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/typescript/2C5282" width="48" alt="TypeScript" /></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/javascript/2C5282" width="48" alt="JavaScript" /></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/python/2C5282" width="48" alt="Python" /></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/html5/2C5282" width="48" alt="HTML5" /></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/css/2C5282" width="48" alt="CSS3" /></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/react/2C5282" width="48" alt="React" /></td>
+    <td align="center" width="12.5%"><img src="https://cdn.simpleicons.org/vite/2C5282" width="48" alt="Vite" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/tailwindcss/2C5282" width="48" alt="Tailwind" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/reactrouter/2C5282" width="48" alt="React Router" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/dotnet/2C5282" width="48" alt=".NET" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/nodedotjs/2C5282" width="48" alt="Node.js" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/express/2C5282" width="48" alt="Express" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/flask/2C5282" width="48" alt="Flask" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postgresql/2C5282" width="48" alt="PostgreSQL" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/mysql/2C5282" width="48" alt="MySQL" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/git/2C5282" width="48" alt="Git" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/github/2C5282" width="48" alt="GitHub" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/githubactions/2C5282" width="48" alt="GitHub Actions" /></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/postman/2C5282" width="48" alt="Postman" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/npm/2C5282" width="48" alt="npm" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/axios/2C5282" width="48" alt="Axios" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/json/2C5282" width="48" alt="JSON" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.simpleicons.org/openai/2C5282" width="48" alt="ChatGPT" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/anthropic/2C5282" width="48" alt="Claude" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/googlegemini/2C5282" width="48" alt="Gemini" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/githubcopilot/2C5282" width="48" alt="Copilot" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/cursor/2C5282" width="48" alt="Cursor" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/notion/2C5282" width="48" alt="Notion" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/canva/2C5282" width="48" alt="Canva" /></td>
+    <td align="center"><img src="https://cdn.simpleicons.org/figma/2C5282" width="48" alt="Figma" /></td>
+  </tr>
+</table>
 
----
+<br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Front-End" alt="Front-End" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/React_Router-000000?style=for-the-badge&logo=reactrouter&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/Vite-000000?style=for-the-badge&logo=vite&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1E3A8A" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Back-End+%26+Frameworks" alt="Back-End" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/ASP.NET_Core-000000?style=for-the-badge&logo=dotnet&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/ASP.NET_MVC-000000?style=for-the-badge&logo=dotnet&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=2C5282" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=550&lines=%E2%96%AB+Databases+%26+Information+Systems" alt="Databases" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/DDL-000000?style=for-the-badge&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/DML-000000?style=for-the-badge&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/DRL-000000?style=for-the-badge&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Entity_Relationship_Diagram-000000?style=for-the-badge&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/LocalStorage-000000?style=for-the-badge&logo=databricks&logoColor=1E3A8A" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+APIs+%26+Integration" alt="APIs" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/Fetch_API-000000?style=for-the-badge&logo=javascript&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=2C5282" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=620&lines=%E2%96%AB+Artificial+Intelligence+%26+Creative+Tools" alt="AI Tools" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visualstudiocode&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Sora-000000?style=for-the-badge&logo=openai&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/Gemini-000000?style=for-the-badge&logo=google&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Veo_3-000000?style=for-the-badge&logo=google&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Claude-000000?style=for-the-badge&logo=anthropic&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=2C5282" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Developer+Tools+%26+DevOps" alt="Dev Tools" />
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2C5282" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=1E3A8A" />
-  <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=2C5282" />
-</p>
-
----
-
+<!-- ============================================= -->
+<!--           ACTIVITY GRAPH                       -->
+<!-- ============================================= -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebaCalvino&bg_color=000000&color=1E3A8A&line=2C5282&point=B8C5D6&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br>
 
+<!-- ============================================= -->
+<!--           FOOTER WAVE                          -->
+<!-- ============================================= -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F1729&height=120&section=footer" width="100%"/>
 </div>
 
 <br>
 
+<!-- ============================================= -->
+<!--           SNAKE GAME                           -->
+<!-- ============================================= -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg" alt="snake" />
 </p>
