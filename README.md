@@ -204,8 +204,10 @@
 
 <br>
 
+<!-- ═══════════════════════ PIXEL ART BANNER ═══════════════════════ -->
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebaCalvino&bg_color=000000&color=1E3A8A&line=2C5282&point=B8C5D6&area=true&hide_border=true" width="100%"/>
+  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/banner-pixel.gif.gif?raw=true" width="100%" alt="Coding at night in Buenos Aires" />
 </div>
 
 <br>
@@ -257,5 +259,5 @@
 <!-- ═══════════════════════ STEVE JOBS QUOTE ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=2C5282&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%22The+people+who+are+crazy+enough+to+think+they+can+change+the+world%2C;are+the+ones+who+do.%22+%E2%80%94+Steve+Jobs" alt="Steve Jobs Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=2C5282&center=true&vCenter=true&multiline=true&repeet=true&width=900&height=80&lines=%22The+people+who+are+crazy+enough+to+think+they+can+change+the+world%2C;are+the+ones+who+do.%22+%E2%80%94+Steve+Jobs" alt="Steve Jobs Quote" />
 </div>
