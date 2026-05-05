@@ -42,15 +42,23 @@
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=2C5282&width=550&lines=Hi%2C+I'm+Sebasti%C3%A1n+Calvi%C3%B1o;Building+AI+Systems+%26+Digital+Products;Informatics+Student+%40+ORT+Argentina;Automation%2C+Full-Stack+%26+Product+Thinking" alt="About typing" />
       </p>
       <p align="left">
-        <span style="color:#2C5282;"><b>Who I am:</b></span> <span style="color:#1E3A8A;">Informatics student at <b>ORT Argentina</b>, based in Buenos Aires. Passionate about turning ideas into real, working products.</span><br><br>
-        <span style="color:#2C5282;"><b>What I build:</b></span> <span style="color:#1E3A8A;">AI-powered systems, automations and full-stack web apps — from the database all the way up to the UI.</span><br><br>
-        <span style="color:#2C5282;"><b>How I work:</b></span> <span style="color:#1E3A8A;">I think like a product person, code like a developer. I care about clean architecture, user experience and shipping things that actually solve problems.</span><br><br>
-        <span style="color:#2C5282;"><b>Currently:</b></span> <span style="color:#1E3A8A;">Exploring AI integrations, building self-directed projects, and sharpening my skills in <code>.NET</code>, <code>React</code> and <code>Node.js</code>.</span><br><br>
-        <span style="color:#2C5282;"><b>Mindset:</b></span> <span style="color:#1E3A8A;">Curiosity over comfort. Iteration over perfection. Always learning.</span>
+        <a href="#"><img src="https://img.shields.io/badge/Who_I_am-Informatics_student_at_ORT_Argentina%2C_based_in_Buenos_Aires._Passionate_about_turning_ideas_into_real%2C_working_products.-1E3A8A?style=for-the-badge&labelColor=2C5282" /></a>
+      </p>
+      <p align="left">
+        <a href="#"><img src="https://img.shields.io/badge/What_I_build-AI--powered_systems%2C_automations_and_full--stack_web_apps_%E2%80%94_from_the_database_all_the_way_up_to_the_UI.-1E3A8A?style=for-the-badge&labelColor=2C5282" /></a>
+      </p>
+      <p align="left">
+        <a href="#"><img src="https://img.shields.io/badge/How_I_work-I_think_like_a_product_person%2C_code_like_a_developer._I_care_about_clean_architecture%2C_UX_and_shipping_things_that_solve_problems.-1E3A8A?style=for-the-badge&labelColor=2C5282" /></a>
+      </p>
+      <p align="left">
+        <a href="#"><img src="https://img.shields.io/badge/Currently-Exploring_AI_integrations%2C_building_self--directed_projects%2C_sharpening_skills_in_.NET%2C_React_and_Node.js.-1E3A8A?style=for-the-badge&labelColor=2C5282" /></a>
+      </p>
+      <p align="left">
+        <a href="#"><img src="https://img.shields.io/badge/Mindset-Curiosity_over_comfort._Iteration_over_perfection._Always_learning.-1E3A8A?style=for-the-badge&labelColor=2C5282" /></a>
       </p>
     </td>
     <td valign="middle" align="center" width="42%">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding-blue.gif" width="320" style="border-radius:12px;" />
+      <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/dance-darkest-moments.png?raw=true" width="320" style="border-radius:12px;" alt="Dance in your darkest moments" />
     </td>
   </tr>
 </table>
@@ -210,19 +218,25 @@
 
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-calvino-07778b15b/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/1E3A8A" width="70" height="70" alt="LinkedIn" style="margin: 0 25px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SebaCalvino" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/2C5282" width="70" height="70" alt="GitHub" style="margin: 0 25px;" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sebaacalvino@gmail.com" target="_blank">
-    <img src="https://cdn.simpleicons.org/gmail/1E3A8A" width="70" height="70" alt="Gmail" style="margin: 0 25px;" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="180">
+      <a href="https://www.linkedin.com/in/sebastian-calvino-07778b15b/" target="_blank">
+        <img src="https://cdn.simpleicons.org/linkedin/1E3A8A" width="80" height="80" alt="LinkedIn" />
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="https://github.com/SebaCalvino" target="_blank">
+        <img src="https://cdn.simpleicons.org/github/2C5282" width="80" height="80" alt="GitHub" />
+      </a>
+    </td>
+    <td align="center" width="180">
+      <a href="mailto:sebaacalvino@gmail.com" target="_blank">
+        <img src="https://cdn.simpleicons.org/gmail/1E3A8A" width="80" height="80" alt="Gmail" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -237,14 +251,4 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=2C5282&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%22The+people+who+are+crazy+enough+to+think+they+can+change+the+world%2C;are+the+ones+who+do.%22+%E2%80%94+Steve+Jobs" alt="Steve Jobs Quote" />
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg" alt="snake" />
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0F1729&height=120&section=footer" width="100%"/>
 </div>
