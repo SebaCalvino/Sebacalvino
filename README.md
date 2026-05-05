@@ -25,12 +25,12 @@
 <!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=1E3A8A&center=true&vCenter=true&repeat=false&width=600&lines=About+Me" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&lines=About+Me" alt="About Me" />
 </div>
 
-<!-- ░░░ GLOWING WHITE LINE ░░░ -->
+<!-- ░░░ ANIMATED BLUE LINE ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,25:B8C5D6,50:FFFFFF,75:B8C5D6,100:1E3A8A&height=4&section=header&animation=twinkling" width="100%"/>
+  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/linea-azul.svg?raw=true" width="100%" height="6"/>
 </div>
 
 <br>
@@ -43,23 +43,23 @@
       </h3>
       <br>
       <p>
-        <img src="https://img.shields.io/badge/Who_I_am-1E3A8A?style=flat-square" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=120&height=28&lines=+Who+I+am+" />
       </p>
       <p>Informatics student at <b>ORT Argentina</b>, based in Buenos Aires. Passionate about turning ideas into real, working products.</p>
       <p>
-        <img src="https://img.shields.io/badge/What_I_build-2C5282?style=flat-square" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=2C5282&center=true&vCenter=true&width=140&height=28&lines=+What+I+build+" />
       </p>
       <p>AI-powered systems, automations and full-stack web apps — from the database all the way up to the UI.</p>
       <p>
-        <img src="https://img.shields.io/badge/How_I_work-1E3A8A?style=flat-square" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=130&height=28&lines=+How+I+work+" />
       </p>
       <p>I think like a product person, code like a developer. I care about clean architecture, UX and shipping things that solve problems.</p>
       <p>
-        <img src="https://img.shields.io/badge/Currently-2C5282?style=flat-square" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=2C5282&center=true&vCenter=true&width=120&height=28&lines=+Currently+" />
       </p>
       <p>Exploring AI integrations, building self-directed projects, sharpening my skills in <code>.NET</code>, <code>React</code> and <code>Node.js</code>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Mindset-1E3A8A?style=flat-square" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=110&height=28&lines=+Mindset+" />
       </p>
       <p>Curiosity over comfort. Iteration over perfection. Always learning.</p>
     </td>
@@ -71,9 +71,9 @@
 
 <br>
 
-<!-- ░░░ GLOWING WHITE LINE ░░░ -->
+<!-- ░░░ ANIMATED BLUE LINE ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,25:B8C5D6,50:FFFFFF,75:B8C5D6,100:1E3A8A&height=4&section=header&animation=twinkling" width="100%"/>
+  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/linea-azul.svg?raw=true" width="100%" height="6"/>
 </div>
 
 <br>
@@ -81,12 +81,12 @@
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=1E3A8A&center=true&vCenter=true&repeat=false&width=600&lines=Tech+Stack+%26+Knowledge" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&lines=Tech+Stack+%26+Knowledge" alt="Tech Stack" />
 </div>
 
-<!-- ░░░ GLOWING WHITE LINE ░░░ -->
+<!-- ░░░ ANIMATED BLUE LINE ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,25:B8C5D6,50:FFFFFF,75:B8C5D6,100:1E3A8A&height=4&section=header&animation=twinkling" width="100%"/>
+  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/linea-azul.svg?raw=true" width="100%" height="6"/>
 </div>
 
 <br>
@@ -95,7 +95,7 @@
   <tr>
     <td valign="top" width="50%">
       <h3 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=2C5282&center=true&vCenter=true&repeat=false&width=300&lines=Programming+Languages" alt="Languages" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1500&color=2C5282&center=true&vCenter=true&repeat=true&width=300&lines=Programming+Languages" alt="Languages" />
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=1E3A8A" />
@@ -109,7 +109,7 @@
     </td>
     <td valign="top" width="50%">
       <h3 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=2C5282&center=true&vCenter=true&repeat=false&width=300&lines=Front-End" alt="Front-End" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1500&color=2C5282&center=true&vCenter=true&repeat=true&width=300&lines=Front-End" alt="Front-End" />
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=1E3A8A" />
@@ -123,7 +123,7 @@
   <tr>
     <td valign="top" width="50%">
       <h3 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=2C5282&center=true&vCenter=true&repeat=false&width=300&lines=Back-End+%26+Frameworks" alt="Back-End" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1500&color=2C5282&center=true&vCenter=true&repeat=true&width=300&lines=Back-End+%26+Frameworks" alt="Back-End" />
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=1E3A8A" />
@@ -136,7 +136,7 @@
     </td>
     <td valign="top" width="50%">
       <h3 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=2C5282&center=true&vCenter=true&repeat=false&width=400&lines=Databases+%26+Information+Systems" alt="Databases" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1500&color=2C5282&center=true&vCenter=true&repeat=true&width=400&lines=Databases+%26+Information+Systems" alt="Databases" />
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/SQL_Server-000000?style=for-the-badge&logo=microsoftsqlserver&logoColor=1E3A8A" />
@@ -152,7 +152,7 @@
   <tr>
     <td valign="top" width="50%">
       <h3 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=2C5282&center=true&vCenter=true&repeat=false&width=300&lines=APIs+%26+Integration" alt="APIs" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1500&color=2C5282&center=true&vCenter=true&repeat=true&width=300&lines=APIs+%26+Integration" alt="APIs" />
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=fastapi&logoColor=1E3A8A" />
@@ -163,7 +163,7 @@
     </td>
     <td valign="top" width="50%">
       <h3 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=2C5282&center=true&vCenter=true&repeat=false&width=400&lines=Developer+Tools+%26+DevOps" alt="Dev Tools" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1500&color=2C5282&center=true&vCenter=true&repeat=true&width=400&lines=Developer+Tools+%26+DevOps" alt="Dev Tools" />
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Visual_Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=1E3A8A" />
@@ -178,7 +178,7 @@
   <tr>
     <td colspan="2" valign="top">
       <h3 align="center">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1&pause=99999&color=2C5282&center=true&vCenter=true&repeat=false&width=450&lines=Artificial+Intelligence+%26+Creative+Tools" alt="AI Tools" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=1500&color=2C5282&center=true&vCenter=true&repeat=true&width=450&lines=Artificial+Intelligence+%26+Creative+Tools" alt="AI Tools" />
       </h3>
       <p align="center">
         <img src="https://img.shields.io/badge/ChatGPT-000000?style=for-the-badge&logo=openai&logoColor=1E3A8A" />
@@ -198,9 +198,9 @@
 
 <br>
 
-<!-- ░░░ GLOWING WHITE LINE ░░░ -->
+<!-- ░░░ ANIMATED BLUE LINE ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,25:B8C5D6,50:FFFFFF,75:B8C5D6,100:1E3A8A&height=4&section=header&animation=twinkling" width="100%"/>
+  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/linea-azul.svg?raw=true" width="100%" height="6"/>
 </div>
 
 <br>
@@ -214,12 +214,12 @@
 <!-- ═══════════════════════ CONTACT ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=1E3A8A&center=true&vCenter=true&repeat=false&width=600&lines=Let's+Connect" alt="Contact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1500&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&lines=Let's+Connect" alt="Contact" />
 </div>
 
-<!-- ░░░ GLOWING WHITE LINE ░░░ -->
+<!-- ░░░ ANIMATED BLUE LINE ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,25:B8C5D6,50:FFFFFF,75:B8C5D6,100:1E3A8A&height=4&section=header&animation=twinkling" width="100%"/>
+  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/linea-azul.svg?raw=true" width="100%" height="6"/>
 </div>
 
 <br>
@@ -246,9 +246,9 @@
 
 <br>
 
-<!-- ░░░ GLOWING WHITE LINE ░░░ -->
+<!-- ░░░ ANIMATED BLUE LINE ░░░ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,25:B8C5D6,50:FFFFFF,75:B8C5D6,100:1E3A8A&height=4&section=header&animation=twinkling" width="100%"/>
+  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/linea-azul.svg?raw=true" width="100%" height="6"/>
 </div>
 
 <br>
@@ -258,3 +258,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=2C5282&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%22The+people+who+are+crazy+enough+to+think+they+can+change+the+world%2C;are+the+ones+who+do.%22+%E2%80%94+Steve+Jobs" alt="Steve Jobs Quote" />
 </div>
+
+<br>
+
+<!-- ═══════════════════════ SNAKE COMMIT ═══════════════════════ -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg" alt="snake" />
+</p>
