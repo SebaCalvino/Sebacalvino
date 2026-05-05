@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif" />
+  <img width="100%" src="https://github.com/SebaCalvino/Sebacalvino/blob/main/banner-pixel.gif.gif?raw=true" />
 </div>
 
 <br>
@@ -205,9 +205,8 @@
 <br>
 
 <!-- ═══════════════════════ PIXEL ART BANNER ═══════════════════════ -->
-
 <div align="center">
-  <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/banner-pixel.gif.gif?raw=true" width="100%" alt="Coding at night in Buenos Aires" />
+  <img src="https://i.pinimg.com/originals/83/17/7e/83177eace643e8d6b6e5e257bafb43d7.gif" width="100%" alt="The World Is Yours" />
 </div>
 
 <br>
