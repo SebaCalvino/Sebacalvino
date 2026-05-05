@@ -39,32 +39,31 @@
   <tr>
     <td valign="top" width="58%">
       <h3>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=1E3A8A&width=550&lines=Hi%2C+I'm+Sebasti%C3%A1n+Calvi%C3%B1o;Building+AI+Systems+%26+Digital+Products;Informatics+Student+%40+ORT+Argentina;Automation%2C+Full-Stack+%26+Product+Thinking" alt="About typing" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=1E3A8A&width=550&lines=Hi%2C+I'm+Sebasti%C3%A1n+Calvi%C3%B1o;Building+AI+Systems+%26+Digital+Products;Informatics+Student+%40+ORT+Argentina;Automation%2C+Full-Stack+%26+Product+Thinking" alt="About typing" />
       </h3>
-      <br>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=120&height=28&lines=+Who+I+am+" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=100&height=24&lines=+Who+I+am+" />
+        &nbsp; Informatics student at <b>ORT Argentina</b>, based in Buenos Aires. Turning ideas into real products.
       </p>
-      <p>Informatics student at <b>ORT Argentina</b>, based in Buenos Aires. Passionate about turning ideas into real, working products.</p>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=2C5282&center=true&vCenter=true&width=140&height=28&lines=+What+I+build+" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=2000&pause=1500&color=FFFFFF&background=2C5282&center=true&vCenter=true&width=120&height=24&lines=+What+I+build+" />
+        &nbsp; AI systems, automations and full-stack web apps — DB to UI.
       </p>
-      <p>AI-powered systems, automations and full-stack web apps — from the database all the way up to the UI.</p>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=130&height=28&lines=+How+I+work+" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=110&height=24&lines=+How+I+work+" />
+        &nbsp; Product thinking + clean architecture. I ship things that solve problems.
       </p>
-      <p>I think like a product person, code like a developer. I care about clean architecture, UX and shipping things that solve problems.</p>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=2C5282&center=true&vCenter=true&width=120&height=28&lines=+Currently+" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=2000&pause=1500&color=FFFFFF&background=2C5282&center=true&vCenter=true&width=100&height=24&lines=+Currently+" />
+        &nbsp; Exploring AI integrations and sharpening <code>.NET</code>, <code>React</code>, <code>Node.js</code>.
       </p>
-      <p>Exploring AI integrations, building self-directed projects, sharpening my skills in <code>.NET</code>, <code>React</code> and <code>Node.js</code>.</p>
       <p>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=110&height=28&lines=+Mindset+" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=12&duration=2000&pause=1500&color=FFFFFF&background=1E3A8A&center=true&vCenter=true&width=90&height=24&lines=+Mindset+" />
+        &nbsp; Curiosity over comfort. Iteration over perfection.
       </p>
-      <p>Curiosity over comfort. Iteration over perfection. Always learning.</p>
     </td>
     <td valign="middle" align="center" width="42%">
-      <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/dance-darkest-moments.png?raw=true" width="340" alt="Dance in your darkest moments" />
+      <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/dance-darkest-moments.png?raw=true" width="320" alt="Dance in your darkest moments" />
     </td>
   </tr>
 </table>
@@ -224,25 +223,19 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.linkedin.com/in/sebastian-calvino-07778b15b/" target="_blank">
-        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoLinkedinAzul.png?raw=true" width="90" height="90" alt="LinkedIn" />
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/SebaCalvino" target="_blank">
-        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GithubLogoAzul?raw=true" width="90" height="90" alt="GitHub" />
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="mailto:sebaacalvino@gmail.com" target="_blank">
-        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoGmailAzul.png?raw=true" width="90" height="90" alt="Gmail" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-calvino-07778b15b/" target="_blank">
+    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoLinkedinAzul.png?raw=true" width="90" height="90" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/SebaCalvino" target="_blank">
+    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GithubLogoAzul?raw=true" width="90" height="90" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:sebaacalvino@gmail.com" target="_blank">
+    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoGmailAzul.png?raw=true" width="90" height="90" alt="Gmail" />
+  </a>
+</p>
 
 <br>
 
@@ -253,16 +246,16 @@
 
 <br>
 
-<!-- ═══════════════════════ STEVE JOBS QUOTE ═══════════════════════ -->
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=2C5282&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%22The+people+who+are+crazy+enough+to+think+they+can+change+the+world%2C;are+the+ones+who+do.%22+%E2%80%94+Steve+Jobs" alt="Steve Jobs Quote" />
-</div>
-
-<br>
-
 <!-- ═══════════════════════ SNAKE COMMIT ═══════════════════════ -->
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg" alt="snake" />
 </p>
+
+<br>
+
+<!-- ═══════════════════════ STEVE JOBS QUOTE ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=5000&pause=1500&color=2C5282&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=80&lines=%22The+people+who+are+crazy+enough+to+think+they+can+change+the+world%2C;are+the+ones+who+do.%22+%E2%80%94+Steve+Jobs" alt="Steve Jobs Quote" />
+</div>
