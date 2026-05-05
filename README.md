@@ -225,8 +225,8 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebastian-calvino-07778b15b/" target="_blank">
-    <img src="www.linkedin.com/in/sebastián-calviño-99073b302" width="90" height="90" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sebastián-calviño-99073b302/" target="_blank">
+    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoLinkedinAzul.png?raw=true" width="90" height="90" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SebaCalvino" target="_blank">
