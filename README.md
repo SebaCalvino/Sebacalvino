@@ -22,11 +22,57 @@
 
 <br>
 
+<!-- ═══════════════════════ ABOUT ME ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&lines=%E2%97%BC%EF%B8%8F+About+Me+%E2%97%BC%EF%B8%8F" alt="About Me" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,30&height=4&section=header&animation=twinkling" width="100%"/>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td valign="top" width="60%">
+      <p align="left">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=2C5282&width=550&lines=Hi%2C+I'm+Sebasti%C3%A1n+Calvi%C3%B1o+%F0%9F%91%8B;Building+AI+Systems+%26+Digital+Products;Informatics+Student+%40+ORT+Argentina;Automation%2C+Full-Stack+%26+Product+Thinking" alt="About typing" />
+      </p>
+      <p align="left" style="color:#B8C5D6;">
+        <b>◾ Who I am:</b> Informatics student at <b>ORT Argentina</b>, based in Buenos Aires.
+        Passionate about turning ideas into real, working products.<br><br>
+        <b>◾ What I build:</b> AI-powered systems, automations and full-stack web apps —
+        from the database all the way up to the UI.<br><br>
+        <b>◾ How I work:</b> I think like a product person, code like a developer.
+        I care about clean architecture, user experience and shipping things that actually solve problems.<br><br>
+        <b>◾ Currently:</b> Exploring AI integrations, building self-directed projects,
+        and sharpening my skills in <code>.NET</code>, <code>React</code> and <code>Node.js</code>.<br><br>
+        <b>◾ Mindset:</b> Curiosity over comfort. Iteration over perfection. Always learning.
+      </p>
+    </td>
+    <td valign="middle" align="center" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" style="border-radius:12px;" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&lines=%E2%97%BC%EF%B8%8F+Tech+Stack+%26+Knowledge+%E2%97%BC%EF%B8%8F" alt="Tech Stack" />
 </div>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Programming+Languages" alt="Programming Languages" />
@@ -42,7 +88,10 @@
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=2C5282" />
 </p>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Front-End" alt="Front-End" />
@@ -56,7 +105,10 @@
   <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1E3A8A" />
 </p>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Back-End+%26+Frameworks" alt="Back-End" />
@@ -71,7 +123,10 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=2C5282" />
 </p>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=550&lines=%E2%96%AB+Databases+%26+Information+Systems" alt="Databases" />
@@ -87,7 +142,10 @@
   <img src="https://img.shields.io/badge/LocalStorage-000000?style=for-the-badge&logo=databricks&logoColor=1E3A8A" />
 </p>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+APIs+%26+Integration" alt="APIs" />
@@ -100,7 +158,10 @@
   <img src="https://img.shields.io/badge/Axios-000000?style=for-the-badge&logo=axios&logoColor=2C5282" />
 </p>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=620&lines=%E2%96%AB+Artificial+Intelligence+%26+Creative+Tools" alt="AI Tools" />
@@ -119,7 +180,10 @@
   <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=2C5282" />
 </p>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=2C5282&center=true&vCenter=true&repeat=true&width=500&lines=%E2%96%AB+Developer+Tools+%26+DevOps" alt="Dev Tools" />
@@ -134,13 +198,52 @@
   <img src="https://img.shields.io/badge/npm-000000?style=for-the-badge&logo=npm&logoColor=2C5282" />
 </p>
 
----
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SebaCalvino&bg_color=000000&color=1E3A8A&line=2C5282&point=B8C5D6&area=true&hide_border=true" width="100%"/>
 </div>
 
 <br>
+
+<!-- ═══════════════════════ CONTACT ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&repeat=true&width=600&lines=%E2%97%BC%EF%B8%8F+Let's+Connect+%E2%97%BC%EF%B8%8F" alt="Contact" />
+</div>
+
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sebastian-calvino-07778b15b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=1E3A8A" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/SebaCalvino" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=2C5282" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="mailto:sebaacalvino@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=1E3A8A" alt="Gmail" />
+  </a>
+</p>
+
+<br>
+
+<!-- ░░░ ANIMATED DIVIDER ░░░ -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,50:2C5282,100:1E3A8A&height=3&section=header&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0F1729&height=120&section=footer" width="100%"/>
