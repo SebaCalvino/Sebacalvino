@@ -233,7 +233,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/SebaCalvino" target="_blank">
-        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoGithubAzul.png?raw=true" width="90" height="90" alt="GitHub" />
+        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GithubLogoAzul?raw=true" width="90" height="90" alt="GitHub" />
       </a>
     </td>
     <td align="center" width="200">
