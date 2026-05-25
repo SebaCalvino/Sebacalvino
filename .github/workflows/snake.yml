@@ -18,7 +18,7 @@ jobs:
         with:
           github_user_name: SebaCalvino
           outputs: |
-            dist/github-snake.svg?color_snake=%234A90E2&color_dots=%230F1729,%231E3A8A,%232C5282,%234A90E2,%237AB8FF
+            dist/github-snake.svg?color_snake=%23A61C2E&color_dots=%231A0000,%238B0000,%23A61C2E,%23C41E3A,%23D4A0A0
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
