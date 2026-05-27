@@ -226,15 +226,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sebastián-calviño-99073b302/" target="_blank">
-    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoLinkedinAzul.png?raw=true" width="90" height="90" alt="LinkedIn" />
+    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LinkedinRojo.png?raw=true" width="130" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SebaCalvino" target="_blank">
-    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GithubLogoAzul?raw=true" width="90" height="90" alt="GitHub" />
+    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GithubRojo.png?raw=true" width="130" alt="GitHub" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:sebaacalvino@gmail.com" target="_blank">
-    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LogoGmailAzul.png?raw=true" width="90" height="90" alt="Gmail" />
+    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GmailRojo.png?raw=true" width="130" alt="Gmail" />
   </a>
 </p>
 
