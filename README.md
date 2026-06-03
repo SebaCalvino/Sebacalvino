@@ -63,7 +63,7 @@
       </p>
     </td>
     <td valign="middle" align="center" width="42%">
-      <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/dance-darkest-moments.png?raw=true" width="320" alt="Dance in your darkest moments" />
+      <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/ezgif-79a0474c6eac216b.gif?raw=true" width="320" alt="Red Rose" />
     </td>
   </tr>
 </table>
@@ -224,19 +224,31 @@
 
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sebastián-calviño-99073b302/" target="_blank">
-    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LinkedinRojo.png?raw=true" width="130" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SebaCalvino" target="_blank">
-    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GithubRojo.png?raw=true" width="130" alt="GitHub" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:sebaacalvino@gmail.com" target="_blank">
-    <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GmailRojo.png?raw=true" width="130" alt="Gmail" />
-  </a>
-</p>
+<table align="center" width="60%">
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://www.linkedin.com/in/sebastián-calviño-99073b302/" target="_blank">
+        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/LinkedinRojo.png?raw=true" width="200" alt="LinkedIn" />
+      </a>
+      <br><br>
+      <b>LinkedIn</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/SebaCalvino" target="_blank">
+        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GithubRojo.png?raw=true" width="200" alt="GitHub" />
+      </a>
+      <br><br>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="33%">
+      <a href="mailto:sebaacalvino@gmail.com" target="_blank">
+        <img src="https://github.com/SebaCalvino/Sebacalvino/blob/main/GmailRojo.png?raw=true" width="200" alt="Gmail" />
+      </a>
+      <br><br>
+      <b>Gmail</b>
+    </td>
+  </tr>
+</table>
 
 <br>
 
