@@ -1,6 +1,4 @@
-<div align="center">
-  <img width="100%" src="https://github.com/SebaCalvino/Sebacalvino/blob/main/banner-pixel.gif.gif?raw=true" />
-</div>
+
 <br>
 <p align="center">
   <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg?v=3" alt="snake" />
