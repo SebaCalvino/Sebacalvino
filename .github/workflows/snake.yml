@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */24 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -10,24 +10,17 @@ on:
 
 jobs:
   generate:
+    runs-on: ubuntu-latest
     permissions:
       contents: write
-    runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
-        id: snake
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: SebaCalvino
           outputs: |
-            dist/github-snake.svg?color_snake=%231E3A8A&color_dots=%230D1117,%232C5282,%231E3A8A,%233B82F6,%2360A5FA
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%23000000&color_dots=%23111111,%23222222,%23333333,%23444444,%23555555
 
-      - uses: actions/upload-artifact@v4
-        with:
-          name: github-snake
-          path: dist/*.svg
-
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
