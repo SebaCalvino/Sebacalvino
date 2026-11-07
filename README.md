@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg?v=3" alt="snake" />
+  <img src="https://raw.githubusercontent.com/SebaCalvino/SebaCalvino/output/github-snake.svg?v=4" alt="snake" />
 </p>
 <br>
 <div align="center">
